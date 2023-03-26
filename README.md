@@ -13,10 +13,6 @@ It is built using:
 - [react-router-dom](https://reactrouter.com/web/guides/quick-start) for routing
 - [Jest](https://jestjs.io/) for testing
 
-## Features
-
-[Describe the features of your app here.]
-
 ## Installation
 
 To install and run the app locally, follow these steps:
